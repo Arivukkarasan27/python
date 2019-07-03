@@ -4,7 +4,7 @@ val=0
 while(ak>0):
   ar=ak%10
   val=val*10+ak
-  akak//10
+  ak=ak//10
 if(temp==val):
   print("yes")
 else:
