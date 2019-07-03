@@ -1,2 +1,2 @@
-a,k=map(int,input().split())
-print(a**k)
+ak,ar=map(int,input().split())
+print(ak**ar)
