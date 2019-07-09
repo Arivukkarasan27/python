@@ -1,7 +1,7 @@
-ak=int(input())
-fact0=1
-if(ak<=20):
-  while(ak>0):
-    fact0=fact0*ak
-    ak=a-1
-print(fact0)
+ma=int(input())
+fact=1
+if(ma<=20):
+  while(ma>0):
+    fact=fact*ma
+    ma=ma-1
+print(fact)
