@@ -1,6 +1,6 @@
 ek=int(input())
 ak=input("")
-ck=list(a.split(" "))
+ck=list(ak.split(" "))
 ck.sort(reverse=True)
 bk=list(map(int,ck))
 if sum(bk)==0:
