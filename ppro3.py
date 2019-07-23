@@ -1,5 +1,5 @@
 adk,aak=input().split()
-aar=aabs(len(aak)-len(adk))
+aar=abs(len(aak)-len(adk))
 for y in range(len(adk)):
   if(len(aak)==1 and aak[y] in adk):
     break
